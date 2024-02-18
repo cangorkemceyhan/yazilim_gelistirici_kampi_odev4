@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\yazilim_gelistirici_kampi_odev4\yazilim_gelistirici_kampi_odev4\bin\Debug\yazilim_gelistirici_kampi_odev4.exe.config
+C:\Users\hp\source\repos\yazilim_gelistirici_kampi_odev4\yazilim_gelistirici_kampi_odev4\bin\Debug\yazilim_gelistirici_kampi_odev4.exe
+C:\Users\hp\source\repos\yazilim_gelistirici_kampi_odev4\yazilim_gelistirici_kampi_odev4\bin\Debug\yazilim_gelistirici_kampi_odev4.pdb
+C:\Users\hp\source\repos\yazilim_gelistirici_kampi_odev4\yazilim_gelistirici_kampi_odev4\obj\Debug\yazilim_gelistirici_kampi_odev4.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\yazilim_gelistirici_kampi_odev4\yazilim_gelistirici_kampi_odev4\obj\Debug\yazilim_gelistirici_kampi_odev4.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\yazilim_gelistirici_kampi_odev4\yazilim_gelistirici_kampi_odev4\obj\Debug\yazilim_gelistirici_kampi_odev4.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\yazilim_gelistirici_kampi_odev4\yazilim_gelistirici_kampi_odev4\obj\Debug\yazilim_gelistirici_kampi_odev4.exe
+C:\Users\hp\source\repos\yazilim_gelistirici_kampi_odev4\yazilim_gelistirici_kampi_odev4\obj\Debug\yazilim_gelistirici_kampi_odev4.pdb
